@@ -26,3 +26,7 @@
 * 用喜帖的 icon
 * 與新人的關係
 * 排序金額大小
+
+## organize android notification
+
+* same keyword to organize them
